@@ -1,6 +1,8 @@
 # Projectile Motion
 
-A summary of results of a detailed treatment of the _projectile motion problem_ in both one and two dimensions, including the effects of air resistance (using two different models for the velocity dependence). Originally written on February 1, 2004 based on some undergraduate work I did, now long gone.
+A summary of results of a detailed treatment of the _projectile motion problem_ in both one and two dimensions, including the effects of air resistance (using two different models for the velocity dependence).
+
+I've gotten quite far on this but it's still work in progress. Originally written on February 1, 2004 based on some undergraduate work I did, now long gone.
 
 ## Creator
 
